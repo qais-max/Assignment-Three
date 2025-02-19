@@ -1,0 +1,50 @@
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex{
+  display: flex;
+}
+.fullh{
+  height: 100%;
+}
+.halfh{
+  height: 50%;
+}
+.one-thirdh{
+  height: 33.3%;
+}
+.two-thirdh{
+  height: 66.6%;
+}
+.fullw{
+width: 100%;
+}
+.halfw{
+  width: 50%;
+}
+.one-thirdw{
+  width: 33.3%;
+}
+.two-thirdw{
+  width: 66.6%;
+}
+.gap{
+  gap: 30px;
+}
+.gap2{
+  gap: 100px;
+}
+.backgcolor{
+  background-color: red;
+}
+.colum-gap{
+  column-gap: 30px;
+}
+.padding-bottom{
+  padding-bottom:30px ;
+}
+.pd-top{
+  padding-top: 30px;
+}
